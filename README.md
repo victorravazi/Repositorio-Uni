@@ -1,3 +1,3 @@
 # Repositorio-Uni
 
-Exercicios em python  
+Repositório da universidade
